@@ -23,8 +23,13 @@ Link: https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
 
 ## Build With
 - Spark packages
+- Pandas
 - OS library
 - Matplotlib
+- Numpy
+- Scikit Learn
+- Tensorflow
+- Keras
 
 ## Data Exploration
 The team utilized two methods for data exploration. First, we examined the relationship between insurance rates and other independent variables using various graphs and charts. Subsequently, we employed Jupyter Notebook to execute the ETL process, preparing the dataset for the machine learning phase.
