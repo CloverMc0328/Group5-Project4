@@ -127,6 +127,11 @@ This model resulted in the most varied R-squared values of the three models. We 
 ## Conclusion
 Achieving an R-square value of 0.82, the team identified the Random Forest as the optimal model for predicting insurance charges based on factors such as age, gender, BMI, smoking habits, and the number of children. This model effectively explains 82% of the variation of the insurance charges using the specified independent variables. Furthermore, We observed that an individual’s smoking habit has the most significant impact on the insurance rate, followed by BMI measure and age. 
 
+## Credit
+- Instructor: Hunter Hollis
+- TA: Sam Espe
+- TA: Randy
+
 ## Reference
 - https://www.healthcare.gov/how-plans-set-your-premiums/
 - https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00996
